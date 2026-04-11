@@ -95,6 +95,16 @@ export const siteContent = {
     heading: 'Featured Projects',
     items: [
       {
+        title: 'BeamMP',
+        description: 'Community team work for BeamMP, with a move from PR/Media into Events & Moderation.',
+        tech: ['Community Management', 'Events', 'Moderation'],
+        contribution: 'Events & Moderation',
+        outcome: 'Current role on the BeamMP team.',
+        repoUrl: 'https://beammp.com/',
+        liveUrl: '',
+        gradient: 'from-sky-400 to-cyan-500'
+      },
+      {
         title: 'JaysIRacingToolbox',
         description: 'A mobile app that helps sim racers prepare before events with practical setup and comparison tools.',
         tech: ['Node.js', 'React', 'JavaScript', 'HTML', 'CSS'],
