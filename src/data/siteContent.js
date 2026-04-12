@@ -49,28 +49,28 @@ export const siteContent = {
       {
         category: 'Frontend',
         skills: [
-          { name: 'React', level: 85 },
-          { name: 'JavaScript', level: 85 },
-          { name: 'HTML', level: 90 },
-          { name: 'CSS', level: 88 }
+          { name: 'React', level: 35 },
+          { name: 'JavaScript', level: 65 },
+          { name: 'HTML', level: 70 },
+          { name: 'CSS', level: 69 }
         ]
       },
       {
         category: 'Design & Graphics',
         skills: [
-          { name: 'Adobe Illustrator', level: 80 },
-          { name: 'Adobe Photoshop', level: 82 },
-          { name: 'UI Styling', level: 84 },
-          { name: 'Digital Media/Photography', level: 78 }
+          { name: 'Adobe Illustrator', level: 70 },
+          { name: 'Adobe Photoshop', level: 72 },
+          { name: 'UI Styling', level: 54 },
+          { name: 'Digital Media/Photography', level: 88 }
         ]
       },
       {
         category: 'Programming & Tools',
         skills: [
-          { name: 'Java', level: 72 },
-          { name: 'Python', level: 75 },
-          { name: 'Node.js', level: 78 },
-          { name: 'Git', level: 82 }
+          { name: 'Java', level: 20 },
+          { name: 'Python', level: 70 },
+          { name: 'Node.js', level: 31 },
+          { name: 'Git', level: 32 }
         ]
       }
     ]
@@ -102,7 +102,9 @@ export const siteContent = {
         outcome: 'Current role on the BeamMP team.',
         repoUrl: 'https://beammp.com/',
         liveUrl: '',
-        gradient: 'from-sky-400 to-cyan-500'
+        gradient: 'from-orange-500 to-blue-500',
+        primaryLinkType: 'website',
+        primaryLinkLabel: 'Website'
       },
       {
         title: 'JaysIRacingToolbox',
@@ -113,6 +115,30 @@ export const siteContent = {
         liveUrl: '',
         repoUrl: 'https://github.com/jaydeninja/JaysIRacingToolbox',
         gradient: 'from-yellow-400 to-amber-500'
+      },
+      {
+        title: 'Instagram Content Creation',
+        description: 'Consistent automotive-focused posting and reel creation, building a style that highlights sim racing moments and visual storytelling.',
+        tech: ['Content Creation', 'Reels', 'Short-Form Editing', 'Audience Growth'],
+        contribution: 'Planning, editing, publishing, and brand consistency across posts.',
+        outcome: 'Active profile',
+        repoUrl: 'https://www.instagram.com/jaysimracing21/',
+        liveUrl: '',
+        gradient: 'from-pink-500 via-purple-500 to-orange-400',
+        primaryLinkType: 'profile',
+        primaryLinkLabel: 'Instagram'
+      },
+      {
+        title: 'TradingPaints Liveries',
+        description: 'Dedicated livery design work for the iRacing community, with a focus on clean sponsor placement, identity consistency, and race-ready visual polish.',
+        tech: ['Livery Design', 'Graphic Design', 'Brand Identity', 'iRacing'],
+        contribution: 'Designing and publishing custom liveries for community use and personal racing projects.',
+        outcome: 'Ongoing uploads',
+        repoUrl: 'https://www.tradingpaints.com/profile/1125849/Jayden-Ellul',
+        liveUrl: '',
+        gradient: 'from-blue-500 via-indigo-500 to-cyan-400',
+        primaryLinkType: 'profile',
+        primaryLinkLabel: 'TradingPaints'
       }
     ]
   },
@@ -124,6 +150,12 @@ export const siteContent = {
         degree: 'Advanced Diploma (Level 4)',
         period: 'Current',
         notes: 'IT Multimedia, Year 2'
+      },
+      {
+        institution: 'Savio College Dingli',
+        degree: 'Secondary School',
+        period: 'Completed',
+        notes: 'Completed secondary school education.'
       }
     ]
   },
