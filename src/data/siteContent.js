@@ -118,8 +118,8 @@ export const siteContent = {
       },
       {
         title: 'Instagram Content Creation',
-        description: 'Consistent automotive-focused posting and reel creation, building a style that highlights sim racing moments and visual storytelling.',
-        tech: ['Content Creation', 'Reels', 'Short-Form Editing', 'Audience Growth'],
+        description: 'Consistent simracing posting and streaming.',
+        tech: ['Content Creation', 'Reels', 'Editing', 'Audience Growth'],
         contribution: 'Planning, editing, publishing, and brand consistency across posts.',
         outcome: 'Active profile',
         repoUrl: 'https://www.instagram.com/jaysimracing21/',
@@ -130,9 +130,9 @@ export const siteContent = {
       },
       {
         title: 'TradingPaints Liveries',
-        description: 'Dedicated livery design work for the iRacing community, with a focus on clean sponsor placement, identity consistency, and race-ready visual polish.',
+        description: 'Dedicated livery design work for the iRacing community, with a focus on realism, identity consistency, and race-ready visuals.',
         tech: ['Livery Design', 'Graphic Design', 'Brand Identity', 'iRacing'],
-        contribution: 'Designing and publishing custom liveries for community use and personal racing projects.',
+        contribution: 'Designing and publishing custom liveries for personal racing projects and taking commisions.',
         outcome: 'Ongoing uploads',
         repoUrl: 'https://www.tradingpaints.com/profile/1125849/Jayden-Ellul',
         liveUrl: '',
